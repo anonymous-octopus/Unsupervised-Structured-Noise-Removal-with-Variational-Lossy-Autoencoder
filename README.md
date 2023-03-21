@@ -12,7 +12,7 @@ scripts/N2V/: Our implementation of Structured N2V http://doi.org/10.1109/ISBI45
 
 Dependencies.
 
-We recommend installing packages to a conda environment with the following commands
+We recommend installing packages to a conda environment with the following commands:
 
 `conda create -n DVLAE`
 
