@@ -1,5 +1,7 @@
 # Unsupervised Structured Noise Removal with Variational Lossy Autoencoder
 
+## Notebooks
+
 The scripts directory contains iPython notebooks with code for reproducing the experiments carried out in the paper.
 
 scripts/CARE/: Our implementation of Content Aware Image Restoration https://doi.org/10.1038/s41592-018-0216-7
@@ -10,7 +12,12 @@ scripts/HDN36/: Our implementation of HDN36 https://doi.org/10.48550/arXiv.2104.
 
 scripts/N2V/: Our implementation of Structured N2V http://doi.org/10.1109/ISBI45749.2020.9098336
 
-Dependencies.
+## Data
+Download zip from https://drive.google.com/file/d/1KAhuH4Fsqmb4qaMvlic9UkqalKrH92aj/view?usp=share_link
+
+Unzip in the same directory as the git clone.
+
+## Dependencies
 
 We recommend installing packages to a conda environment with the following commands:
 
